@@ -11,3 +11,11 @@ Computer Systems: A Programmer's Perspective labs.
 	- [phase6_1.c](https://github.com/YieldNull/CSAPP/blob/master/lab2-bomb/src/disassemble/phase6_1.c)
 	- [phase6_2.c](https://github.com/YieldNull/CSAPP/blob/master/lab2-bomb/src/disassemble/phase6_2.c)
 	- [secret.c](https://github.com/YieldNull/CSAPP/blob/master/lab2-bomb/src/disassemble/secret.c)
+
+3. Attack Lab. [[Reference]](https://yieldnull.com/blog/dcb4c62c236607a01fae789bf5317ead310bad70/). Code:
+
+	- [phase_1.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_1.txt)
+	- [phase_2.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_2.txt) [phase_2.s](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_2.s)
+	- [phase_3.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_3.txt) [phase_3.s](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_3.s)
+	- [phase_4.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_4.txt)
+	- [phase_5.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_5.txt)
