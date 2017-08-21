@@ -19,3 +19,7 @@ Computer Systems: A Programmer's Perspective labs.
 	- [phase_3.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_3.txt) [phase_3.s](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_3.s)
 	- [phase_4.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_4.txt)
 	- [phase_5.txt](https://github.com/YieldNull/CSAPP/blob/master/lab3-attack/src/input/phase_5.txt)
+
+4. Malloc Lab.
+
+	- [mm.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm.c)
