@@ -22,4 +22,5 @@ Computer Systems: A Programmer's Perspective labs.
 
 4. Malloc Lab.
 
-	- [mm.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm.c)
+	- [mm-implicit-first-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-implicit-first-fit.c)
+	- [mm-implicit-next-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-implicit-next-fit.c)
