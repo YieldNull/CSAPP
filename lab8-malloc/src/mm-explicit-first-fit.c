@@ -90,7 +90,7 @@ static char *heap_ceil; // ceil address of heap, the address of epilogue
 
 static char *free_start;
 
-void set_header(char *header, uint32_t size, int pre_used, int used) {
+inline void set_header(char *header, uint32_t size, int pre_used, int used) {
     *((uint32_t *) (header)) = size | (pre_used << 1) | used;
 }
 
