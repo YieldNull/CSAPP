@@ -25,3 +25,4 @@ Computer Systems: A Programmer's Perspective labs.
 	- [mm-implicit-first-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-implicit-first-fit.c)
 	- [mm-implicit-next-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-implicit-next-fit.c)
 	- [mm-explicit-first-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-explicit-first-fit.c)
+	- [mm-segregated-fit.c](https://github.com/YieldNull/CSAPP/blob/master/lab8-malloc/src/mm-segregated-fit.c)
