@@ -307,7 +307,7 @@ void *mm_malloc(size_t size) {
             return NULL;
         }
 
-        truncate_block(header, block_size, 0);
+        truncate_block(header, alloc_size, 0); // do not spilt
 
         return (void *) (header + WORD_SIZE);
     }
